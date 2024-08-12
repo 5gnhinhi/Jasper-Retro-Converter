@@ -10,7 +10,7 @@ Transform your videos and photos with a vintage touch!
 
 Jasper Retro Converter is a program that allows you to convert videos and photos to a vintage quality. The conversion is done simultaneously with style selection and bit amount, offering a wide range of styles such as Windows XP, VHS, Old Cinema, Super Nintendo, and much more.
 
-In version 3.0, you can create your own custom styles! For more details, visit the [Create Your Own Style](jasper.rf.gd/façaoseu) page.
+In version 3.0, you can create your own custom styles! For more details, visit the [Create Your Own Style](https://jasper.rf.gd/façaoseu) page.
 
 ## Features
 
