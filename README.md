@@ -3,7 +3,7 @@
 Transform your videos and photos with a vintage touch!
 
 ## Download Now
-The full version is on [the program website](https://jasper.rf.gd/façaoseu)
+The full version is on [the program website](https://jasper.rf.gd/)
 
 (Currently available only for Windows, coming soon for other operating systems)
 
@@ -17,7 +17,7 @@ In version 3.0, you can create your own custom styles! For more details, visit t
 
 - Choose from various styles and bit amounts for conversion.
 
-© 2024 Leopardus team. All rights reserved.
+© 2024 [Leopardus team](https://leopardusteam.com). All rights reserved.
 
 ---
 
