@@ -21,4 +21,4 @@ In version 3.0, you can create your own custom styles! For more details, visit t
 
 ---
 
-The program is also available as open-source under the OpenJRC version.
+The program is also available as open-source under the [OpenJRC](https://github.com/5gdaroca/Open-jrc) version.
