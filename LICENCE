@@ -1,11 +1,22 @@
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License
+Custom License for Jasper Retro converter
 
-You are free to:
-- Share — copy and redistribute the material in any medium or format.
+Copyright (c) 2024-25 Leopardus Team
 
-Under the following conditions:
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. YOU CAN'T SAY IT'S AN INDEPENDENT PROGRAM! You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- NonCommercial — You may not use the material for commercial purposes.
-- NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+You are permitted to:
 
-You can find the full license text at https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+- Use portions of the source code from this project in your own **non-commercial** projects.
+- Study, learn from, and copy parts of this code for educational or personal purposes.
+- Share this project **unmodified**, as long as proper credit is given.
+
+You are **not permitted to**:
+
+- Use this project or any modified version of it for **commercial purposes**.
+- Modify and redistribute this project as if it were your own original work.
+- Repackage or rebrand this project as a standalone or independent application.
+- Remove or alter attribution to the original author.
+
+This license does not grant any commercial rights or exclusivity over the use of the code.
+
+For commercial use or any use not covered by this license, please contact the author.
+
+5gnhinhi@gmail.com
